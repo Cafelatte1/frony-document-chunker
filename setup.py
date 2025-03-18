@@ -10,7 +10,7 @@ setup(
         "python-dotenv",
         "transformers",
         "langchain-text-splitters",
-        "levenshtein"
+        "levenshtein",
         "openai",
     ],
 )
